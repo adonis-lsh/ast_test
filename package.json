@@ -1,0 +1,27 @@
+{
+  "name": "ast02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/generator": "^7.24.4",
+    "@babel/helper-module-imports": "^7.0.0",
+    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-react": "^7.24.1",
+    "@babel/preset-typescript": "^7.24.1",
+    "@babel/template": "^7.24.0",
+    "@babel/traverse": "^7.24.1",
+    "@babel/types": "^7.24.0",
+    "antd": "^5.16.1",
+    "assert": "^2.1.0",
+    "babylon": "^6.18.0"
+  }
+}
